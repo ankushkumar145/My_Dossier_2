@@ -18,7 +18,7 @@ export default function Resume() {
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-6">
           <motion.a
-            href="/assets/AnkushCv.pdf"
+            href="/assets/AnkushResume.pdf"
             target="_blank"
             rel="noreferrer"
             whileHover={{ scale: 1.05 }}
@@ -30,7 +30,7 @@ export default function Resume() {
           </motion.a>
           
           <motion.a
-            href="/assets/AnkushCv.pdf"
+            href="/assets/AnkushResume.pdf"
             download
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
